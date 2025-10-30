@@ -1,0 +1,14 @@
+[project]
+name = "semanticsegmentation-segformer"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "huggingface-hub>=0.34.4",
+    "matplotlib>=3.10.5",
+    "numpy>=2.2.6",
+    "opencv-python>=4.12.0.88",
+    "pillow>=11.3.0",
+    "pytorch-lightning>=2.5.3",
+    "torch>=2.8.0",
+    "transformers>=4.55.0",
+]

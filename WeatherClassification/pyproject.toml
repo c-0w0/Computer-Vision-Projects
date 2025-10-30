@@ -1,0 +1,9 @@
+[project]
+name = "weatherclassification"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "img2vec-pytorch>=1.0.2",
+    "pillow>=12.0.0",
+    "scikit-learn>=1.7.2",
+]

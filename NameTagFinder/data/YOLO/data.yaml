@@ -1,0 +1,6 @@
+train: train
+val: train
+test:
+
+nc: 1
+names: ['nametag']
