@@ -15,14 +15,6 @@ Dataset Source: [deepNIR 11 Fruits annotations](https://www.kaggle.com/datasets/
 - Performance metrics visualization (loss curves, mAP, confusion matrix)
 - Inference on test images with bounding box visualization
 
-## Requirements
-- Python 3.x
-- Ultralytics YOLO
-- OpenCV
-- Pandas
-- Matplotlib
-- Seaborn
-
 ## Results
 ![val_batch0_pred](https://github.com/user-attachments/assets/d371cd8e-f826-4943-9cfe-896938eceb50)
 
